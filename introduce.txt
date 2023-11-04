@@ -1,0 +1,3 @@
+Thư mục chứa dữ liệu backend của app thương mại điện tử
+Chủ đề app: Nội thất
+Ngôn ngữ sử dụng: Nodejs, MongoDB
